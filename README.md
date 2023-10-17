@@ -1,28 +1,28 @@
 # Elementos-Comp
 
-Este repositorio contiene los laboratorios y proyectos realizados durante mi proceso en la carrera de Ingeniería Electrónica en el curso de Elementos de Computación.
+This repository contains the labs and projects completed during my journey in the field of Electronic Engineering in the Elements of Computation course.
 
-**Elementos de Computación** es el curso de introducción a la programación del Tecnológico de Costa Rica y es requerido para la mayoría de las carreras de la universidad. Durante el curso, se utilizaron varias versiones de Python, como Python 2.7 y Python 3.6, además de herramientas como DFD y wxPSeINT.
+**Elements of Computation** is the introductory programming course at Tecnológico de Costa Rica and is a requirement for most university programs. During the course, various versions of Python were used, including Python 2.7 and Python 3.6, along with tools like DFD and wxPSeINT.
 
-## Contenido del Repositorio
+## Repository Contents
 
-En este repositorio, encontrarás los programas y trabajos que realicé durante el segundo semestre de 2019. El contenido se organiza de la siguiente manera:
+In this repository, you will find the programs and assignments I completed during the second semester of 2019. The content is organized as follows:
 
-- **Lab 0**: Diagramas de Flujo en DFD y wxPSeInt
-- **Lab 1**: Introducción a Python y manejo de enteros
-- **Lab 2**: Condicionales y Funciones
+- **Lab 0**: Flowcharts in DFD and wxPSeInt
+- **Lab 1**: Introduction to Python and integer handling
+- **Lab 2**: Conditionals and Functions
 - **Lab 3**: Loops
 - **Lab 4**: Strings
-- **Lab 5**: Listas
-- **Lab 6**: Arreglos
-- **Lab 7**: Diccionarios
-- **Lab 8**: Uso de archivos y manejo de errores
-- **Lab 9**: Clases
+- **Lab 5**: Lists
+- **Lab 6**: Arrays
+- **Lab 7**: Dictionaries
+- **Lab 8**: File usage and error handling
+- **Lab 9**: Classes
 
-Además, también encontrarás una carpeta con uno de los exámenes que realicé durante el curso.
+Additionally, you will also find a folder with one of the exams I took during the course.
 
-## Información de Contacto
+## Contact Information
 
-Si tienes alguna pregunta o comentario, no dudes en contactarme.
+If you have any questions or comments, please feel free to contact me.
 
-¡Gracias por visitar mi repositorio!
+Thank you for visiting my repository!
