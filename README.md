@@ -1,4 +1,4 @@
-# Elementos-Comp
+# Elements of Computation
 
 This repository contains the labs and projects completed during my journey in the field of Electronic Engineering in the Elements of Computation course.
 
